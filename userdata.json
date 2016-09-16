@@ -1,0 +1,13 @@
+{
+	"Name" : "Kyle John",
+    "Cash" : 
+    {
+        "Currency" : "Won",
+        "Amount" : 100000
+    },
+    "Account" : 
+    {
+        "Currency" : "Won",
+        "Amount" : 100000
+    }
+}
