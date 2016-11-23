@@ -1,6 +1,0 @@
-{
-  "name": "Nuwanda22.GitHub.io",
-  "tagline": "Nuwanda22 blog",
-  "body": "# nuwanda22.github.io\r\n\r\nThis place is a blog that includes about thinking of programming.\r\n\r\n이 곳은 제 프로그래밍에 대한 공부와 생각을 담고 있는 블로그입니다.\r\n\r\n## Content\r\n\r\n이 블로그는 프로그래밍 언어, 데이터베이스, 네트워크, 소프트웨어공학 등 프로그래밍에 전반한 정보에 대해 포스팅하고 있으며\r\n\r\n그 외에도 관련 소식 (Google IO, Microsoft Connect(); 등)에 대해서도 포스팅하고 있습니다.\r\n\r\n#### Program Language\r\n* C#\r\n* C/C++\r\n* Java\r\n* python\r\n* HTML/CSS\r\n* Javascript \r\n\r\n#### \"C#\"\r\n* WinForm, WPF, UWP\r\n* Xamarin\r\n* ASP.NET\r\n\r\n#### Database\r\n* mysql / MarinaDB\r\n* Oracle SQL\r\n* MS SQL\r\n\r\n#### Mircosoft\r\n* Azure\r\n* Visual Studio",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
