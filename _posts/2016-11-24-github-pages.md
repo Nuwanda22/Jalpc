@@ -6,7 +6,7 @@ desc: "Github pages로 블로그 만들기"
 keywords: "github,pages,jekyll,blog,first"
 categories: [Life]
 tags: [github,blog]
-icon: fa-database
+icon: fa-github
 ---
 
 # 개요
