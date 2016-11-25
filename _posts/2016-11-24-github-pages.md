@@ -4,7 +4,7 @@ title:  "Github pages로 블로그 만들기"
 date:   2016-11-24
 desc: "Github pages로 블로그 만들기"
 keywords: "github,pages,jekyll,blog,first"
-categories: [Life]
+categories: [Git]
 tags: [github,blog]
 icon: fa-github <!--http://fontawesome.io/icon-->
 ---

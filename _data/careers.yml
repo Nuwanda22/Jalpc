@@ -1,55 +1,55 @@
 - name:
-    detail: Nextcode
-    i18n: nextcode
-  desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
-  date:
-    detail: Apr. 2016
-    i18n: nextcode_date
-  job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
-
-- name:
-    detail: Netease Game
-    i18n: netease
-  desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
-  date:
-    detail: Jun. 2015
-    i18n: nextcode_date
-  job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
-
-- name:
-    detail: Ucloud
-    i18n: ucloud
-  desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
-  date:
-    detail: Sep. 2013
-    i18n: ucloud_date
-  job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
-
-- name:
     detail: Graduation
-    i18n: college
+    i18n: graduation
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
-    i18n: college_des
+    detail: Now I am preparing to graduate from Meister School.
+    i18n: graduation_des
   date:
-    detail: Jul. 2013
-    i18n: college_date
+    detail: Feb. 2018
+    i18n: graduation_date
   job:
     detail: Student
-    i18n: college_job
+    i18n: graduation_job
+  icon: fa-question
+
+- name:
+    detail: Aurender
+    i18n: aurender
+  desc:
+    detail: In aurender, I'll develop music server controller application with Xamarin.
+    i18n: aurender_des
+  date:
+    detail: Dec. 2016
+    i18n: aurender_date
+  job:
+    detail: C# Developer
+    i18n: aurender_job
+  icon: fa-mobile
+
+- name:
+    detail: Jiransoft
+    i18n: jiransoft
+  desc:
+    detail: In jiransoft, I joined team that develops security solution based on whitelist technique.
+    i18n: jiransoft_des
+  date:
+    detail: Jul. 2016
+    i18n: jiransoft_date
+  job:
+    detail: C++ Developer
+    i18n: jiransoft_job
+  icon: fa-user-secret
+
+- name:
+    detail: Admission
+    i18n: school
+  desc:
+    detail: At March 2015, I entered into Deadeok Software Meister High School.
+    i18n: school_des
+  date:
+    detail: March. 2015
+    i18n: school_date
+  job:
+    detail: Student
+    i18n: school_job
   icon: fa-book

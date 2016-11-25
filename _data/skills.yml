@@ -1,20 +1,20 @@
 - name: C#
   percentage: 85
 
-- name: HTML/CSS
+- name: ASP.NET
   percentage: 65
 
-- name: Linux/Shell
+- name: Azure
   percentage: 75
 
-- name: jQuery
+- name: Xamarin
   percentage: 85
 
-- name: AngularJS
+- name: C/C++
   percentage: 80
 
-- name: Ionic
+- name: Unreal Engine 4
   percentage: 70
 
-- name: Vuejs
+- name: Web
   percentage: 65
