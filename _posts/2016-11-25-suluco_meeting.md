@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2016년 11월 26일 술루코 회의"
-date:   2016-11-26
+title:  "2016년 11월 25일 술루코 회의"
+date:   2016-11-25
 desc: "술루코 회의의 대한 내용 정리"
 keywords: "suluco"
 categories: [Etc]
 tags: [suluco]
-icon: fa-thumbs-o-up <!--http://fontawesome.io/icons-->
+icon: fa-thumbs-o-up
 ---
 
 # Suluco
