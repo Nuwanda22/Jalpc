@@ -13,36 +13,36 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a C# devoper. I love a programming that uses C# like Xamarin, ASP.NET."
+    "des": "I am a student programmer. I like C # and I am interested in virtual reality."
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
     "my_projects": "My Projects",
-    "saplatform": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
-    "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
-    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
-    "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
+    "project1": "IP Configurator is a program that helps you to set up IP more easily. It can be set easily without going through the control panel.",
+    "project2": "nuwanda22.github.io is a project to build my blog through GitHub page. it was built like dynamic paging by Jekyll.",
+    "project3": "Xaccount Book is a account book application developed through Xamarin.",
+    "project4": "GitHub Blog is a service that makes it easier to manage pages built with GitHub page."
   },
   "career":{
     "my_career": "My Career",
-    "graduation": "Graduation",
-    "graduation_des": "Now I am preparing to graduate from Meister School.",
-    "graduation_date": "Feb. 2018",
-    "graduation_job": "Student",
-    "aurender": "Aurender",
-    "aurender_des": "In aurender, I'll develop music server controller application with Xamarin.",
-    "aurender_date": "Dec. 2016",
-    "aurender_job": "C# Developer",
-    "jiransoft": "Jiransoft",
-    "jiransoft_des": "In jiransoft, I joined team that develops security solution based on whitelist technique.",
-    "jiransoft_date": "Jul. 2016",
-    "jiransoft_job": "C++ Developer",
-    "school": "Graduation",
-    "school_des": "At February 2018, I'll graduate from Deadeok Software Meister High School.",
-    "school_date": "Feb. 2018",
-    "school_job": "Student"
+    "career4": "Graduation",
+    "career4_des": "I am preparing to graduate from my school.",
+    "career4_date": "Feb. 2018",
+    "career4_job": "Student",
+    "career3": "Intern",
+    "career3_des": "I develop practical skills through internship projects and personal projects.",
+    "career3_date": "Dec. 2016",
+    "career3_job": "Developer",
+    "career2": "Jiransoft",
+    "career2_des": "In jiransoft, I joined team that develops security solution based on whitelist technique.",
+    "career2_date": "Jul. 2016",
+    "career2_job": "C++ Developer",
+    "career1": "Entrance into school",
+    "career1_des": "I entered Daedeok Software Meister High School in March 2015.",
+    "career1_date": "Mar. 2015",
+    "career1_job": "Student"
   },
   "blog":{
     "my_blog": "My Blog"

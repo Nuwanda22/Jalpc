@@ -1,55 +1,55 @@
 - name:
     detail: Graduation
-    i18n: graduation
+    i18n: career4
   desc:
-    detail: Now I am preparing to graduate from Meister School.
-    i18n: graduation_des
+    detail: I am preparing to graduate from my school.
+    i18n: career4_des
   date:
     detail: Feb. 2018
-    i18n: graduation_date
+    i18n: career4_date
   job:
     detail: Student
-    i18n: graduation_job
+    i18n: career4_job
   icon: fa-question
 
 - name:
-    detail: Aurender
-    i18n: aurender
+    detail: Intern
+    i18n: career3
   desc:
-    detail: In aurender, I'll develop music server controller application with Xamarin.
-    i18n: aurender_des
+    detail: I develop practical skills through internship projects and personal projects.
+    i18n: career3_des
   date:
     detail: Dec. 2016
-    i18n: aurender_date
+    i18n: career3_date
   job:
-    detail: C# Developer
-    i18n: aurender_job
+    detail: Developer
+    i18n: career3_job
   icon: fa-mobile
 
 - name:
     detail: Jiransoft
-    i18n: jiransoft
+    i18n: career2
   desc:
     detail: In jiransoft, I joined team that develops security solution based on whitelist technique.
-    i18n: jiransoft_des
+    i18n: career2_des
   date:
     detail: Jul. 2016
-    i18n: jiransoft_date
+    i18n: career2_date
   job:
     detail: C++ Developer
-    i18n: jiransoft_job
+    i18n: career2_job
   icon: fa-user-secret
 
 - name:
-    detail: Admission
-    i18n: school
+    detail: Entrance into school
+    i18n: career1
   desc:
-    detail: At March 2015, I entered into Deadeok Software Meister High School.
-    i18n: school_des
+    detail: I entered Daedeok Software Meister High School in March 2015.
+    i18n: career1_des
   date:
     detail: March. 2015
-    i18n: school_date
+    i18n: career1_date
   job:
     detail: Student
-    i18n: school_job
+    i18n: career1_job
   icon: fa-book
