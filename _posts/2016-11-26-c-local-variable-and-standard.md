@@ -4,7 +4,7 @@ title:  "C의 지역 변수 이야기"
 date:   2016-11-26
 desc: "C의 지역 변수와 표준에 대한 이야기"
 keywords: "c,for,index,local,variable,standard,c99,c11"
-categories: [C/C++]
+categories: [C-Cplusplus]
 tags: [c]
 icon: icon-c
 ---
@@ -42,7 +42,7 @@ void func()
 }
 ```
 
-위 코드에 문제가 있다고 말하는 사람은 아무도 없을 것이라 생각하지만 원래는 변수 c를 함수 도중에 선언했으므로 에러가 나는 문장이다.
+위 코드에 문제가 있다고 말하는 사람은 아무도 없을 것이라 생각하지만 원래는 변수 c를 함수 도중에 선언했으므로 **에러가 발생하는 코드**다.
 
 또 다른 예제를 보자
 
