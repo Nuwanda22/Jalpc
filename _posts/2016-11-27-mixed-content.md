@@ -20,3 +20,5 @@ But in my code, ajax get http domain.
 This is problem.
 
 Change http to https.
+
+깃 허브 짱짱.
