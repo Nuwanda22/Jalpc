@@ -27,3 +27,60 @@
     detail: Full Stack Developer
     i18n: company_b_job
   icon: fa-plus-square
+
+
+# - name:
+#     detail: Graduation
+#     i18n: career4
+#   desc:
+#     detail: I am preparing to graduate from my school.
+#     i18n: career4_des
+#   date:
+#     detail: Feb. 2018
+#     i18n: career4_date
+#   job:
+#     detail: Student
+#     i18n: career4_job
+#   icon: fa-question
+
+# - name:
+#     detail: Intern
+#     i18n: career3
+#   desc:
+#     detail: I develop practical skills through internship projects and personal projects.
+#     i18n: career3_des
+#   date:
+#     detail: Dec. 2016
+#     i18n: career3_date
+#   job:
+#     detail: Developer
+#     i18n: career3_job
+#   icon: fa-mobile
+
+# - name:
+#     detail: Jiransoft
+#     i18n: career2
+#   desc:
+#     detail: In jiransoft, I joined team that develops security solution based on whitelist technique.
+#     i18n: career2_des
+#   date:
+#     detail: Jul. 2016
+#     i18n: career2_date
+#   job:
+#     detail: C++ Developer
+#     i18n: career2_job
+#   icon: fa-user-secret
+
+# - name:
+#     detail: Entrance into school
+#     i18n: career1
+#   desc:
+#     detail: I entered Daedeok Software Meister High School in March 2015.
+#     i18n: career1_des
+#   date:
+#     detail: March. 2015
+#     i18n: career1_date
+#   job:
+#     detail: Student
+#     i18n: career1_job
+#   icon: fa-book

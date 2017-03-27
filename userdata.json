@@ -1,0 +1,13 @@
+{
+    "Name": "HAHA",
+    "Cash": {
+        "Currency": 1,
+        "Amount": 100000,
+        "Temp": "￦ 100,000"
+    },
+    "Account": {
+        "Currency": 1,
+        "Amount": 100000,
+        "Temp": "￦ 100,000"
+    }
+}

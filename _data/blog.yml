@@ -24,3 +24,23 @@
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
   href: /donate/
+# - name: Blog
+#   href: '/blog/'
+
+# - name: C/C++
+#   href: '/c-cplusplus/'
+
+# - name: C#
+#   href: '/csharp/'
+
+# - name: Database
+#   href: '/database/'
+
+# - name: Network
+#   href: '/network/'
+
+# - name: Git
+#   href: '/git/'
+
+# - name: Etc
+#   href: '/etc/'

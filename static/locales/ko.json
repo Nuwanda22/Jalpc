@@ -1,0 +1,55 @@
+{
+  "website":{
+    "title": "Nuwanda22의 블로그"
+  },
+  "nav":{
+    "home": "홈",
+    "about_me": "소개",
+    "skills": "기술",
+    "projects": "프로젝트",
+    "career": "경력",
+    "blog": "블로그",
+    "link": "링크"
+  },
+  "about_me":{
+    "about_me": "저에 대해",
+    "des": "저는 학생 프로그래머입니다. C#을 좋아하고 가상현실에 관심이 많습니다."
+  },
+  "skills":{
+    "my_skills": "기술"
+  },
+  "projects":{
+    "my_projects": "진행한 프로젝트",
+    "project1": "IP Configurator는 아이피를 설정을 보다 편하게 설정할 수 있도록 돕는 프로그램입니다. 제어판을 통하지 않고도 간단히 설정이 가능합니다.",
+    "project2": "nuwanda22.github.io는 GitHub page를 통한 개인 블로그 구축한 프로젝트입니다. Jekyll를 통해 동적 페이징같은 정적 페이징 사이트를 구축했습니다.",
+    "project3": "Xaccount Book은 Xamarin을 이용한 가계부 앱입니다. ",
+    "project4": "GitHub Blog는 GitHub page를 통해 구축한 페이지를 보다 쉽게 관리할 수 있도록 하는 서비스입니다."
+  },
+  "career":{
+    "my_career": "경력",
+    "career4": "졸업",
+    "career4_des": "현재 대덕소프트웨어마이스터고등학교의 졸업을 준비 중에 있습니다.",
+    "career4_date": "2018년 2월",
+    "career4_job": "졸업생",
+    "career3": "공부",
+    "career3_des": "인턴 활동 및 프로젝트를 통해 실무 능력을 기르고 있습니다.",
+    "career3_date": "2016년 12월",
+    "career3_job": "개발자",
+    "career2": "지란지교소프트",
+    "career2_des": "지란지교소프트에서 화이트리스트 기법을 기반으로한 보안 솔루션 개발에 참가했습니다.",
+    "career2_date": "2016년 7월",
+    "career2_job": "C++ 개발자",
+    "career1": "입학",
+    "career1_des": "2015년 3월에 대덕소프트웨어마이스터고등학교에 입학하였습니다.",
+    "career1_date": "2015년 3월",
+    "career1_job": "학생"
+  },
+  "blog":{
+    "my_blog": "블로그로 이동"
+  },
+  "link":{
+    "link": "링크",
+    "view": "명 방문"
+  }
+
+}
