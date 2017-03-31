@@ -29,7 +29,7 @@
   img: /static/assets/img/landing/githubblog.png
   desc: GitHub Blog is a service that makes it easier to manage pages built with GitHub page.
 
-- name: FamilyCODE Wchat
-  i18n: familycode
-  img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+# - name: FamilyCODE Wchat
+#   i18n: familycode
+#   img: /static/assets/img/landing/familycode.png
+#   desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
