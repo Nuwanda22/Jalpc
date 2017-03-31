@@ -1,86 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Company A
-    i18n: company_a
-  desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
-  date:
-    detail: Apr. 2016
-    i18n: company_a_date
-  job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Sowrender
+    i18n: career3
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I will be developing cross-platform apps through Xamarin.
+    i18n: career3_des
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Aug. 2017
+    i18n: career3_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: .NET Developer
+    i18n: career3_job
+  icon: fa-mobile
 
+- name:
+    detail: Jiransoft
+    i18n: career2
+  desc:
+    detail: In jiransoft, I joined team that develops security solution based on whitelist technique.
+    i18n: career2_des
+  date:
+    detail: Jul. 2016
+    i18n: career2_date
+  job:
+    detail: C++ Developer
+    i18n: career2_job
+  icon: fa-user-secret
 
-# - name:
-#     detail: Graduation
-#     i18n: career4
-#   desc:
-#     detail: I am preparing to graduate from my school.
-#     i18n: career4_des
-#   date:
-#     detail: Feb. 2018
-#     i18n: career4_date
-#   job:
-#     detail: Student
-#     i18n: career4_job
-#   icon: fa-question
-
-# - name:
-#     detail: Intern
-#     i18n: career3
-#   desc:
-#     detail: I develop practical skills through internship projects and personal projects.
-#     i18n: career3_des
-#   date:
-#     detail: Dec. 2016
-#     i18n: career3_date
-#   job:
-#     detail: Developer
-#     i18n: career3_job
-#   icon: fa-mobile
-
-# - name:
-#     detail: Jiransoft
-#     i18n: career2
-#   desc:
-#     detail: In jiransoft, I joined team that develops security solution based on whitelist technique.
-#     i18n: career2_des
-#   date:
-#     detail: Jul. 2016
-#     i18n: career2_date
-#   job:
-#     detail: C++ Developer
-#     i18n: career2_job
-#   icon: fa-user-secret
-
-# - name:
-#     detail: Entrance into school
-#     i18n: career1
-#   desc:
-#     detail: I entered Daedeok Software Meister High School in March 2015.
-#     i18n: career1_des
-#   date:
-#     detail: March. 2015
-#     i18n: career1_date
-#   job:
-#     detail: Student
-#     i18n: career1_job
-#   icon: fa-book
+- name:
+    detail: Entrance into school
+    i18n: career1
+  desc:
+    detail: I entered Daedeok Software Meister High School in March 2015.
+    i18n: career1_des
+  date:
+    detail: March. 2015
+    i18n: career1_date
+  job:
+    detail: Student
+    i18n: career1_job
+  icon: fa-book
