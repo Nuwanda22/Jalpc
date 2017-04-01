@@ -28,7 +28,7 @@ author:
   skill_icon2:
     - name: fa-github
     - name: icon-csharp
-  desc: I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.  # Describe yourself.
+  desc: I am a student programmer. I love C# programming. I enjoy techiques of Mircosoft like .NET, Azure and Xamarin.  # Describe yourself.
 
 # comment
 disqus:
@@ -50,9 +50,6 @@ donation: off  # type 'on'/'off' to choice display donation button at post page 
 
 # Build settings
 encoding: utf-8
-
-# # blog img path
-# img_path: 'https://nuwanda22.github.io/static/img/blog'
 
 # other settings
 highlighter: rouge

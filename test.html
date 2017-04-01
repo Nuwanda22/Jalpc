@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script type="text/javascript" src="http://jsgetip.appspot.com"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+    <script>
+        function getVisitors() {
+            $.ajax({
+                //url: 'http://countvisitor.azurewebsites.net/api/visitor/last',
+                url: 'http://localhost:36867/api/visitor/last',
+                type: 'get',
+                success: function (data) {
+                    var p = document.getElementById('p');
+                    if(data == null){
+                        console.log('data is null');
+                        p.innerText = '0';
+                    }
+                    else p.innerText = data.key;
+                }
+            });
+        }
+
+        function postVisitors() {
+            $.ajax({
+                url: 'http://localhost:36867/api/visitor',
+                type: 'post',
+                contentType: 'application/json; charset=UTF-8',
+                dataType: 'json',
+                data: { 
+                    referer: document.referrer, 
+                    ipaddress : ip() 
+                }, 
+                success: function (data) {
+                    console.log(JSON.stringify(data));
+                }
+            });
+        }
+    </script>
+</head>
+
+<body>
+    <button onclick="postVisitors()">방문하기</button>
+
+    <p id="p"></p>
+    <button onclick="getVisitors()">방문자 수 확인</button>
+</body>
+
+</html>

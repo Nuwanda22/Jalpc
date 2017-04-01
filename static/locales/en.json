@@ -13,61 +13,37 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a student programmer. I like C # and I am interested in virtual reality."
+    "des": "I am a student programmer. I love C# programming. I enjoy techiques of Mircosoft like .NET, Azure and Xamarin."
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
     "my_projects": "My Projects",
-    "saplatform": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
-    "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
-    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
-    "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually.",
-    "leetcode": "LeetCode is a website which has many valuable algorithmic questions, this is a project of kamyu104's, I forked it and added more solutions, if you like Python you can find fun from this project.",
+    "project1": "IP Configurator is a program that helps you to set up IP more easily. It can be set easily without going through the control panel.",
+    "project2": "nuwanda22.github.io is a project to build my blog through GitHub page. it was built like dynamic paging by Jekyll.",
+    "project3": "Xaccount Book is a account book application developed through Xamarin.",
+    "project4": "GitHub Blog is a service that makes it easier to manage pages built with GitHub page.",
     "familycode": "This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat."
   },
   "career":{
     "my_career": "My Career",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
-  //   "project1": "IP Configurator is a program that helps you to set up IP more easily. It can be set easily without going through the control panel.",
-  //   "project2": "nuwanda22.github.io is a project to build my blog through GitHub page. it was built like dynamic paging by Jekyll.",
-  //   "project3": "Xaccount Book is a account book application developed through Xamarin.",
-  //   "project4": "GitHub Blog is a service that makes it easier to manage pages built with GitHub page."
-  // },
-  // "career":{
-  //   "my_career": "My Career",
-  //   "career4": "Graduation",
-  //   "career4_des": "I am preparing to graduate from my school.",
-  //   "career4_date": "Feb. 2018",
-  //   "career4_job": "Student",
-  //   "career3": "Intern",
-  //   "career3_des": "I develop practical skills through internship projects and personal projects.",
-  //   "career3_date": "Dec. 2016",
-  //   "career3_job": "Developer",
-  //   "career2": "Jiransoft",
-  //   "career2_des": "In jiransoft, I joined team that develops security solution based on whitelist technique.",
-  //   "career2_date": "Jul. 2016",
-  //   "career2_job": "C++ Developer",
-  //   "career1": "Entrance into school",
-  //   "career1_des": "I entered Daedeok Software Meister High School in March 2015.",
-  //   "career1_date": "Mar. 2015",
-  //   "career1_job": "Student"
+    "career4": "Graduation",
+    "career4_des": "I am preparing to graduate from my school.",
+    "career4_date": "Feb. 2018",
+    "career4_job": "Student",
+    "career3": "Intern",
+    "career3_des": "I develop practical skills through internship projects and personal projects.",
+    "career3_date": "Dec. 2016",
+    "career3_job": "Developer",
+    "career2": "Jiransoft",
+    "career2_des": "In jiransoft, I joined team that develops security solution based on whitelist technique.",
+    "career2_date": "Jul. 2016",
+    "career2_job": "C++ Developer",
+    "career1": "Entrance into school",
+    "career1_des": "I entered Daedeok Software Meister High School in March 2015.",
+    "career1_date": "Mar. 2015",
+    "career1_job": "Student"
   },
   "blog":{
     "my_blog": "My Blog"
