@@ -27,10 +27,10 @@
                 type: 'post',
                 contentType: 'application/json; charset=UTF-8',
                 dataType: 'json',
-                data: { 
+                data: JSON.stringify({ 
                     referer: a, 
                     ipaddress : ip() 
-                }, 
+                }), 
                 success: function (data) {
                     console.log(JSON.stringify(data));
                 }
