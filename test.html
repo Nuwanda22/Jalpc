@@ -21,14 +21,14 @@
             });
         }
 
-        function postVisitors(a) {
+        function postVisitors() {
             $.ajax({
                 url: 'https://countvisitor.azurewebsites.net/api/visitor',
                 type: 'post',
                 contentType: 'application/json; charset=UTF-8',
                 dataType: 'json',
                 data: JSON.stringify({ 
-                    referer: a, 
+                    referer: document.referrer, 
                     ipaddress : ip() 
                 }), 
                 success: function (data) {
