@@ -21,14 +21,14 @@
             });
         }
 
-        function postVisitors() {
+        function postVisitors(a) {
             $.ajax({
                 url: 'https://countvisitor.azurewebsites.net/api/visitor',
                 type: 'post',
                 contentType: 'application/json; charset=UTF-8',
                 dataType: 'json',
                 data: { 
-                    referer: document.referrer, 
+                    referer: a, 
                     ipaddress : ip() 
                 }, 
                 success: function (data) {
@@ -40,7 +40,7 @@
 </head>
 
 <body>
-    <button onclick="postVisitors()">방문하기</button>
+    <button onclick="postVisitors(document.referrer)">방문하기</button>
 
     <p id="p"></p>
     <button onclick="getVisitors()">방문자 수 확인</button>
