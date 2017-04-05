@@ -1,12 +1,12 @@
 # links section data
-- last_name: Megumin
-  first_name: Chan
-  desc: 'Python Developer.'
-  website: 'http://ncookie.tistory.com/'
-  email: 'swstar21c@naver.com'
+- last_name: Harry Lee
+  first_name: 
+  desc: CEO
+  website: http://www.sowrender.com/ceo-bio.html
+  email: harrylee@aurender.com
 
-- last_name: Kim
-  first_name: Jinseong
-  desc: 'Maybe Developer.'
-  website: 'http://jinseongsoft.tistory.com/'
-  email: 'rlawlstjd007@gmail.com'
+- last_name: Eric Shim
+  first_name: 
+  desc: CTO
+  website: https://github.com/aurender
+  email: ericshim@aurender.com
