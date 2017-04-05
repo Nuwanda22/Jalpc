@@ -21,7 +21,12 @@ $(function(){
         {% if category == 'Html' %}
         {% assign category = category | upcase %}
         {% endif %}
-        <h1>{{ category }}</h1>
+
+        {% for blog in site.data.blog %}
+            {% if blog.href == page.url %}
+                <h1>{{ blog.name }}</h1>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <div class="wrapper wrapper-content  animated fadeInRight blog">
