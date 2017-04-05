@@ -4,7 +4,8 @@ title:  "ASP.NET Core Cors"
 date:   2017-04-02
 desc: "How to enable ASP.NET Core Cors"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [csharp]
+categories: [C#]
+permalink: /csharp/:year/:month/:day/:title.html
 tags: [C#,ASP.NET]
 icon: icon-html
 ---

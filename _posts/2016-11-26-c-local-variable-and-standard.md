@@ -4,7 +4,8 @@ title:  "C의 지역 변수 이야기"
 date:   2016-11-26
 desc: "C의 지역 변수와 표준에 대한 이야기"
 keywords: "c,for,index,local,variable,standard,c99,c11"
-categories: [C-cplusplus]
+categories: [C/C++]
+permalink: /c-cplusplus/:year/:month/:day/:title.html
 tags: [c]
 icon: icon-c
 ---
