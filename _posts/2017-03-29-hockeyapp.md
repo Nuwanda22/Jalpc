@@ -58,7 +58,8 @@ var manager = BITHockeyManager.SharedHockeyManager;
 manager.Configure("$Your_App_Id");
 manager.StartManager();
 manager.Authenticator.AuthenticateInstallation(); // This line is obsolete in crash only builds
-```
+```  
+
 #### Android
 1. `MainActivity.cs` 파일을 연다.
 2. `using HockeyApp.Android;`를 추가한다.
