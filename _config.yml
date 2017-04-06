@@ -1,9 +1,7 @@
-# Welcome to Jekyll!
-
 # Website settings
-title: Blog of Nuwanda 
-description: Nuwanda's blog,use Jekyll and github pages.
-keywords: Nuwanda22,blog,Jekyll,github,gh-pages
+title: Blog of Kyle 
+description: Kyle John(Nuwanda22)'s blog that was made using Jekyll and github pages.
+keywords: Kyle,John,Nuwanda22,blog,Jekyll,github
 baseurl: 
 url: https://nuwanda22.github.io
 # url: http://127.0.0.1:4000
