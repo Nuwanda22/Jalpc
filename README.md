@@ -106,7 +106,7 @@ The pagination in jekyll is not very perfect,so I use front-end web method,there
 
 ### <a name="page-views-counter"></a>Page views counter
 
-Many third party page counter platforms are too slow,so I count my website page view myself,the javascript file is [static/js/count.min.js](https://github.com/jarrekk/jalpc_jekyll_theme/blob/gh-pages/static/js/count.min.js) ([static/js/count.js](https://github.com/jarrekk/jalpc_jekyll_theme/blob/gh-pages/static/js/count.js)),the backend API is written with flask on [Vultr VPS](https://www.vultr.com/), detail code please see [jalpc-flask](https://github.com/jarrekk/jalpc-flask).
+Many third party page counter platforms are too slow,so I count my website page view myself,the javascript file is [static/js/count.min.js](https://github.com/jarrekk/jalpc_jekyll_theme/blob/gh-pages/static/js/count.min.js) ([static/js/count.js](https://github.com/jarrekk/jalpc_jekyll_theme/blob/gh-pages/static/js/count.js)),the backend API is written with flask on [Vultr VPS](https://www.vultr.com/), detail code please see [ztool-backhend-mongo](https://github.com/Z-Tool/ztool-backhend-mongo).
 
 ### <a name="multilingual-page"></a>Multilingual Page
 
@@ -203,6 +203,7 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 
 ## <a name="todo"></a>Todo
 - [ ] `jekyll server --watch` mode need to use original CSS/JS files
+- [ ] User can customise index page's section title.
 
 ##  <a name="change-log"></a>Change Log
 Please see [wiki](https://github.com/jarrekk/Jalpc/wiki/Change-Log)
